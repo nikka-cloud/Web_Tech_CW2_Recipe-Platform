@@ -1,12 +1,1 @@
-{
-  "name": "web-tech-recipe-app",
-  "version": "1.0.0",
-  "description": "sample-recipe-app/           # Root: Web application (Project structure) [cite: 15]\r ├── controllers/             # Controllers: Handle logic (Project structure) [cite: 15]\r │   └── api/               # API Controllers\r │       └── recipe/          # Recipe API logic (CRUD) [cite: 4, 16]\r │           └── index.js\r │   └── web/               # Web Controllers\r │       └── home/            # Home page logic\r │           └── index.js\r ├── data/                  # Data storage (Project structure) [cite: 15]\r │   └── mock_db.json       # Mock database\r ├── node_modules/          # npm packages (EXCLUDE from submission!) [cite: 15, 16, 24]\r ├── public/                # Static assets (Project structure) [cite: 15]\r │   └── css/               # CSS\r │       └── styles.css\r │   └── js/                # JavaScript\r │       └── scripts.js\r ├── routes/                # Routes: Define URLs (Project structure, Routing) [cite: 15, 18]\r │   └── api/               # API Routes\r │       └── recipe/          # Recipe API routes\r │           └── index.js\r │   └── web/               # Web Routes\r │       └── home/            # Home page routes\r │           └── index.js\r ├── services/              # (Optional) Business logic (Project structure) [cite: 15]\r │   └── recipe/          # Recipe services\r │       └── index.js\r ├── validators/            # (Optional) Data validation (CRUD) [cite: 16, 17]\r │   └── recipe/          # Recipe validation\r │       └── index.js\r ├── views/                 # Templates (Project structure, Views) [cite: 15, 20]\r │   └── home/            # Home page templates\r │       ├── add_update.pug # Recipe form\r │       ├── index.pug      # Recipe list\r │       ├── main.pug       # Main layout\r │       └── head.pug       # Header\r ├── app.js                 # Main app file (Project structure) [cite: 15]\r ├── package-lock.json\r ├── package.json           # npm config (Project structure) [cite: 15]\r └── README.md              # Documentation (Readme file) [cite: 12]",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+
